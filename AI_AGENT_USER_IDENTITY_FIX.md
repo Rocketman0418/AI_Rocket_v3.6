@@ -2,7 +2,7 @@
 
 ## Problem
 
-The AI (new) Agent node is hallucinating names when formulating search queries.
+The AI Agent node is hallucinating names when formulating search queries.
 
 **Example:**
 - **User input:** "From our most recent L10 meeting, please provide a detailed list of action items that **I** need to complete..."
