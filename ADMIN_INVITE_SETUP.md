@@ -2,7 +2,7 @@
 
 ## Overview
 
-Admin (new) users can create new user accounts directly from the User Settings modal. This system is designed for controlled user onboarding where the admin sets the initial credentials.
+Admin users can create new user accounts directly from the User Settings modal. This system is designed for controlled user onboarding where the admin sets the initial credentials.
 
 ## Admin Access
 
